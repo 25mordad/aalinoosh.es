@@ -1,0 +1,192 @@
+{
+  "main": {
+    "name":"Hi,I'm Maryam",
+    "rname":"Maryam Feiz",
+    "description":"A Web Developer with a thorough understanding of web compatibility, performance, usability, accessibility, maintainability.I Do my best to develop web products which offer users a great experience",
+    "image":"profilepic.jpg",
+    "resumedownload":"resume.pdf",
+    "bio":"I am a Frontend Developer ,a good friend, and a lover of all things fitness.Highly focused on learning and problem solving skills, for the past few years, I have worked with ecommerce ,promotional and institutional websites, marketplace and many other applications.Actually I work with Agile development and I have been learning with new experiences in huge projects improving my communication and my way of working in a workspace.Deep experience in Front End Development/Engineering, open source projects, specially strong skills with Javascript/React/HTML/CSS and  UX/UI Designer/Creative Architecture. ",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "aalinoosh@gmail.com",
+    "phone": "+34-629478050",
+    "github":"https://github.com/25mordad",
+    "project":"",
+    "address":{
+      "street":"I live in Barcelona Area"
+    },
+    "website": "http://www.aalinoosh.es",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/mary-feiz/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"twitter",
+        "url":"https://www.twitter.com/aalinoosh",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/maryam.fza/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/aalinoosh",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"hhttps://github.com/25mordad",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":" I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over ",
+    "education":[
+      {
+        "school":"University of Pompeu Fabra",
+        "degree":" Master's degree Intelligent interactive systems",
+        "graduated":"March 2016 - 2018",
+        "description":""
+      },
+      
+      {
+        "school":"University of Shahid Bahonar Kerman",
+        "degree":" Master's degree in Computer Science, Software Engineering",
+        "graduated":"March 2012",
+        "description":"Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school":"University of Shahid Bahonar Kerman",
+        "degree":"Bachelors degree in Civil Engineering.",
+        "graduated":"March 2012",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"1Des a Trading platform powered by Machine Learning",
+        "title":" Researcher /Front end Developer",
+        "years":"May 2020 - present",
+        "description":"Designed, developed and maintained website, 1des is a trade cryptocurrency platform powered of machine learning.",
+        "url":"http://1des.com"
+      },
+      {
+        "company":"Dotravel",
+        "title":"Front end Developer",
+        "years":"March 2017 - February 2020",
+        "url":"http://dotravel.com",
+        "description":" working in a team on a travelers platform .Architect, designed, developed, implemented, and launched the Dotravel website, I'm more focused on the Frontend part of it, leading and mentoring progress and implemented corrective actions. I have involved in content marketing, customer engagement, and community building strategies."
+      },
+      {
+        "company":"Consultant (Marketing & Advertising Company based on Canada)",
+        "title":"Front end Consultant",
+        "years":"March 2016 - 2019",
+        "url":"https://onlinecareer360.com/",
+        "description":"I worked as a consultant for several Accenture clients. Built multilingual marketing pages for ecommerce project. Used JavaScript, HTML, CSS"
+      },
+      {
+        "company":"Golrang Industrial Group",
+        "title":"Digital Marketing Manager ,SEO manager and Front End Developer",
+        "years":"March 2013- February 2016",
+        "url":"http://dotravel.com",
+        "description":" working in a team on a travelers platform .Architect,designed, developed, implemented, and launched the Dotravel website, I'm more focused on the Frontend part of it, leading and mentoring progress and implemented corrective actions. I have involved in content marketing, customer engagement, and community building strategies."
+      },
+      {
+        "company":"Golrang Industrial Group",
+        "title":"SEO manager and Front End Developer",
+        "years":"March 2011 - February 2013",
+        "url":"",
+        "description":"SEO manager, drive web traffic and increase brand awareness,define project coding style guidelines and best practices, code complex web apps (Java/ JavaScript)"
+      }
+      
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"javaScript",
+        "description":"javaScript was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image":"java.png"
+      },
+      {
+        "name":"React Js",
+        "description":"I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template  which I used as a starting point.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"AMP ",
+        "description":"AMP is a Google-backed project with the aim of speeding up the delivery of content through the use of stripped down code known as AMP HTML.There is a very compelling reason to do AMP for SEO. So Let's use it.",
+        "image":"amp.png"
+      },
+
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"HTML/CSS",
+        "description":" I started to play with design and then HTML and CSS since my 19 and from this time I already played a lot with websites. Test me, challenge me, and, I'll run through the problems to look for solutions",
+        "image":"css.jpg"
+      },
+      {
+        "name":"XD Design",
+        "description":"I’ve worked hard to assemble my skills in Human-centered User experience, user testing, and visual design,to create beautiful pieces of interactive work that are useful for users.",
+        "image":"xddesign.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"DoTravel Marketplace",
+        "category":"A travel marketplace Working with the latest feature-driven development tools ",
+        "image":"dotravel.jpg",
+        "url":"https://dotravel.com"
+      },
+      {
+        "title":"1Des,Trading Solutions Powered by Machine Learning",
+        "category":"Automated crypto trading platform based on ML",
+        "image":"des.jpg",
+        "url":"http://1des.com"
+      },
+      {
+        "title":"project at Joint Research Center (EC)",
+        "category":"The ICT Department at Universitat Pompeu Fabra, Barcelona.",
+        "image":"divin.jpg",
+        "url":"https://divinai.org/"
+      },
+      {
+        "title":"Ave Website",
+        "category":"Hair and skin health products",
+        "image":"ave.jpg",
+        "url":"https://www.ave.ir/en/#home"
+      },
+      {
+        "title":"Kourosh Investment Group ",
+        "category":"producing and distributing fast-moving consumer goods and retail and chain stores sector.",
+        "image":"kourosh.jpg",
+        "url":"https://kouroshgroup.com/en"
+      },
+      {
+        "title":"Iran and Spain Chamber of Commerce",
+        "category":"Common Chamber of Commerce of Iran and Spain",
+        "image":"isbc.jpg",
+        "url":"https://isbc.es/"
+      }
+      
+    ]
+  }
+}
